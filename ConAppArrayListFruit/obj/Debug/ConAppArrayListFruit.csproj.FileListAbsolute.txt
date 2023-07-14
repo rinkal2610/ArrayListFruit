@@ -1,0 +1,8 @@
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\bin\Debug\ConAppArrayListFruit.exe.config
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\bin\Debug\ConAppArrayListFruit.exe
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\bin\Debug\ConAppArrayListFruit.pdb
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\obj\Debug\ConAppArrayListFruit.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\obj\Debug\ConAppArrayListFruit.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\obj\Debug\ConAppArrayListFruit.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\obj\Debug\ConAppArrayListFruit.exe
+C:\DotNetTraining\Day5\ConAppArrayListFruit\ConAppArrayListFruit\obj\Debug\ConAppArrayListFruit.pdb
